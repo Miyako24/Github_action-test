@@ -28,6 +28,8 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.1",
+    "bootstrap": "^5.3.6",
+    "mongodb": "^6.16.0",
     "vitest": "^2.0.3"
   }
 }
